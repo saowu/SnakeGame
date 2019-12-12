@@ -1,12 +1,12 @@
 # SnakeGame
 >java编写的贪吃蛇（火影风）
 
-####版本配置
+#### 版本配置
+· jdk8+
 
-·jdk8+
-·mysql 5.7
+· mysql 5.7
 
-####UI展示
+#### UI展示
 
 ![](https://pic1.superbed.cn/item/5df1fd2c1f8f59f4d6783390.png)
 
