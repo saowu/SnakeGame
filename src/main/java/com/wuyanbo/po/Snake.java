@@ -108,14 +108,14 @@ public class Snake {
         //判断是否超出界限
         boolean isLimit = (head.row >= Config.ROWS) || (head.row < 0) || (head.col < 0) || (head.col >= Config.COLS);
         //判断是否撞蛇身
-        boolean isCollision = isisCollision();
+        boolean isCollision = isCollision();
         return (isLimit || isCollision);
     }
 
     /**
      * 判断蛇身碰撞
      */
-    private boolean isisCollision() {
+    private boolean isCollision() {
         boolean result = false;
         Node temp = body;
         while (temp != null) {
