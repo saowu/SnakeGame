@@ -1,6 +1,11 @@
 # SnakeGame
 >java编写的贪吃蛇（火影风）
 
+[![GitHub issues](https://img.shields.io/github/issues/saowu/SnakeGame.svg)](https://github.com/saowu/SnakeGame/issues)
+[![GitHub forks](https://img.shields.io/github/forks/saowu/SnakeGame.svg)](https://github.com/saowu/SnakeGame/network)
+[![GitHub stars](https://img.shields.io/github/stars/saowu/SnakeGame.svg)](https://github.com/saowu/SnakeGame/stargazers)
+[![GitHub license](https://img.shields.io/github/license/saowu/SnakeGame.svg)](https://github.com/saowu/SnakeGame)
+
 #### 版本配置
 · jdk8+
 
